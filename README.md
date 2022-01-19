@@ -31,17 +31,11 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-<!-- [![Abubakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarMana01&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarMana01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
  
  <div style="display: flex">
   <p><img src="https://github-readme-stats.vercel.app/api?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en" alt="abubakarMana01" /></p>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en&layout=compact"   alt="abubakarMana01" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en&layout=compact"   alt="abubakarMana01" /></p>
  </div>
  
  <br>
