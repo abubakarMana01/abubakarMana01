@@ -33,16 +33,17 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-[![Abubakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarMana01&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Abubakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarMana01&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarMana01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderDaiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="coderdaiyan" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderDaiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="coderdaiyan" /></p> <br>
  -->
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en" alt="abubakarMana01" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="abubakarMana01" /></p> <br>
+
 [twitter]: https://twitter.com/abubakarMana01
 [instagram]: https://instagram.com/abubakr_mana_
 [github]: https://github.com/abubakarmana01
