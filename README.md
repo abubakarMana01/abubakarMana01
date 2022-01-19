@@ -7,8 +7,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play and watch football
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="abubakarMana01 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -40,9 +38,7 @@
 <br />
 
 [![Abubakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarMana01&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarMana01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/abubakarMana01
