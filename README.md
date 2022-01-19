@@ -35,7 +35,7 @@
 
 <br />
 
-[![Abubakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarMana01)](https://github.com/anuraghazra/github-readme-stats)
+[![Abubakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarMana01&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/abubakarMana01
 [instagram]: https://instagram.com/abubakr_mana_
