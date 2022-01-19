@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play and watch football
 
-### Connect with me:
+## Connect with me:
 
 <p align="left">
 <a href="https://instagram.com/abubakr_mana_" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-64.png" alt="santdas36" height="40" width="40" /></a>
@@ -32,7 +32,6 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
  
  
-## Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en" alt="abubakarMana01" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en&layout=compact"   alt="abubakarMana01" /></p>
