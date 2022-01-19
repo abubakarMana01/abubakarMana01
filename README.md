@@ -42,7 +42,7 @@
  
 <p><img src="https://github-readme-stats.vercel.app/api?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en" alt="abubakarMana01" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="abubakarMana01" /></p> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en&layout=compact" alt="abubakarMana01" /></p> <br>
 
 [twitter]: https://twitter.com/abubakarMana01
 [instagram]: https://instagram.com/abubakr_mana_
