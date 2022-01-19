@@ -34,8 +34,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
+<br />
 
-[![Abubakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarMana01&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Abubakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarMana01&theme=darcula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/abubakarMana01
 [instagram]: https://instagram.com/abubakr_mana_
