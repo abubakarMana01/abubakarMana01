@@ -37,7 +37,7 @@
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en" alt="abubakarMana01" />
 
- &nbsp;&nbsp;&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en&layout=compact"   alt="abubakarMana01" />
+ <img margin="auto" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en&layout=compact"   alt="abubakarMana01" />
 </p>
 
 [twitter]: https://twitter.com/abubakarMana01
