@@ -34,7 +34,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
  
 
-<p display="flex">
+<p display="flex" justify-content="space-between">
  <img src="https://github-readme-stats.vercel.app/api?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en" alt="abubakarMana01" />
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en&layout=compact"   alt="abubakarMana01" />
