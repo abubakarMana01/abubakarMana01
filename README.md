@@ -38,11 +38,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarMana01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
- <div>
- </div>
-<p><img src="https://github-readme-stats.vercel.app/api?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en" alt="abubakarMana01" /></p>
+ <div display="flex">
+  <p><img src="https://github-readme-stats.vercel.app/api?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en" alt="abubakarMana01" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en&layout=compact" alt="abubakarMana01" /></p> <br>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en&layout=compact"   alt="abubakarMana01" /></p>
+ </div>
+ 
+ <br>
 
 [twitter]: https://twitter.com/abubakarMana01
 [instagram]: https://instagram.com/abubakr_mana_
