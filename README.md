@@ -11,7 +11,7 @@
 
 <p align="left">
 <a href="https://instagram.com/abubakr_mana_" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-64.png" alt="santdas36" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/abubakar-yahya-mana" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-64.png" alt="abubakarMana01" height="40" width="40" style="margin-left: 10px" /></a>
+<a href="https://linkedin.com/in/abubakar-yahya-mana-509589206" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-64.png" alt="abubakarMana01" height="40" width="40" style="margin-left: 10px" /></a>
 <a href="https://twitter.com/abubakarMana1" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-64.png" alt="abubakarMana01" height="40" width="40" style="margin-left: 10px" /></a>
 </p>
 
@@ -31,9 +31,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
  
-<p><img style="display: inline" src="https://github-readme-stats.vercel.app/api?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en" alt="abubakarMana01" /></p>
+ 
+## Stats
+<p><img src="https://github-readme-stats.vercel.app/api?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en" alt="abubakarMana01" /></p>
 
-<p><img style="display: inline" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en&layout=compact"   alt="abubakarMana01" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en&layout=compact"   alt="abubakarMana01" /></p>
  </div>
  
 [twitter]: https://twitter.com/abubakarMana01
