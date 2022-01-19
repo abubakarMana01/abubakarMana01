@@ -30,13 +30,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
  
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en" alt="abubakarMana01" /> -->
+<br />
 
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en&layout=compact"   alt="abubakarMana01" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en" alt="abubakarMana01" /> -->
 
 [twitter]: https://twitter.com/abubakarMana01
 [instagram]: https://instagram.com/abubakr_mana_
