@@ -33,12 +33,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
  
- 
-<img display="inline" src="https://github-readme-stats.vercel.app/api?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en" alt="abubakarMana01" />
 
-<img display="inline" float="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en&layout=compact"   alt="abubakarMana01" />
- </div>
- 
+<p float="left">
+ <img src="https://github-readme-stats.vercel.app/api?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en" alt="abubakarMana01" />
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarMana01&show_icons=true&theme=react&title_color=3cb480&locale=en&layout=compact"   alt="abubakarMana01" />
+</p>
+
 [twitter]: https://twitter.com/abubakarMana01
 [instagram]: https://instagram.com/abubakr_mana_
 [github]: https://github.com/abubakarmana01
