@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning **everything** 🤣
+- 🌱 I’m currently learning **lots of things** 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play and watch football
@@ -16,17 +16,6 @@
 <a href="https://twitter.com/santdas36" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-64.png" alt="santdas36" height="40" width="40" style="margin-left: 10px" /></a>
 <a href="https://dribbble.com/santdas36" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Dribbble_colored_svg-64.png" alt="santdas36" height="40" width="40" style="margin-left: 10px" /></a>
 </p>
-
-<!-- ## Connect with Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ym.abubakr7@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/816268050499633172) -->
-
-<br />
 
 ## 💻 Languages and Tools:
 
@@ -50,10 +39,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarMana01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderDaiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="coderdaiyan" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderDaiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="coderdaiyan" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderDaiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="coderdaiyan" /></p> <br>
-
+ -->
 [twitter]: https://twitter.com/abubakarMana01
 [instagram]: https://instagram.com/abubakr_mana_
 [github]: https://github.com/abubakarmana01
