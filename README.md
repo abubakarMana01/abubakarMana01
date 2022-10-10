@@ -1,11 +1,4 @@
-### Hi there, I'm Abubakar 👋 
-
-## I build things for web and mobile devices!!
-
-- 🌱 I’m currently learning **a lot of things 😁😁**
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play and watch football
+## Software Engineer 🧑‍💻
 
 ## Connect with me:
 
